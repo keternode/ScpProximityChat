@@ -6,7 +6,7 @@ namespace ScpProximityChatExiled;
 
 public class ScpProximityChatModule : Plugin<PluginConfig>
 {
-    public const string PluginVersion = "2.0.0.0";
+    public const string PluginVersion = "2.0.1";
 
     public override string Author { get; } = "Keter Gaming-Team";
     public override string Name { get; } = "ScpProximityChat";
