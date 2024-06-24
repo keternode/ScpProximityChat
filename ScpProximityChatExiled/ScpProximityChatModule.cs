@@ -12,7 +12,7 @@ public class ScpProximityChatModule : Plugin<PluginConfig>
     public override string Name { get; } = "ScpProximityChat";
     public override string Prefix { get; } = "ScpProximityChat";
     public override Version Version { get; } = new (PluginVersion);
-    public override Version RequiredExiledVersion { get; } = new (8, 7, 0);
+    public override Version RequiredExiledVersion { get; } = new (8, 9, 6);
     public override bool IgnoreRequiredVersionCheck { get; } = true;
 
     public static PluginConfig PluginConfig;
