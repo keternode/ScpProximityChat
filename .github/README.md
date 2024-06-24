@@ -9,9 +9,6 @@
 
 </div>
 
-<p align="center">
-  <img alt="ScpProximityChat Development" src="https://repobeats.axiom.co/api/embed/09ed4c12a86b978e6e8c5b5e31f6450c210897ad.svg">
-</p>
 
 <div align="center">
 <h2>How to use?</h1>
