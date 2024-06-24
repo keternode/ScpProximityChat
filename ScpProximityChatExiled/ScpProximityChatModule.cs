@@ -8,7 +8,7 @@ public class ScpProximityChatModule : Plugin<PluginConfig>
 {
     public const string PluginVersion = "2.0.0.0";
 
-    public override string Author { get; } = "Jesus-QC";
+    public override string Author { get; } = "Keter Gaming-Team";
     public override string Name { get; } = "ScpProximityChat";
     public override string Prefix { get; } = "ScpProximityChat";
     public override Version Version { get; } = new (PluginVersion);
